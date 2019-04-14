@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "606201308230",
+    "firebase_url": "https://acomic-757e7.firebaseio.com",
+    "project_id": "acomic-757e7",
+    "storage_bucket": "acomic-757e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606201308230:android:97eefc313a49b9c6",
+        "android_client_info": {
+          "package_name": "in.a_comic.a_comic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606201308230-rb290g7c33pjtq1f4t79ktcq2iecrrkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.a_comic.a_comic",
+            "certificate_hash": "12ab0d8062c283d0072d1a4c1197ed1e2f80c994"
+          }
+        },
+        {
+          "client_id": "606201308230-hbo5do0bvgf06uurh54t8hpbsjrqcg73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ruSn3cdgQCHF7UP5mX5qn694nO2cUzw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606201308230-hbo5do0bvgf06uurh54t8hpbsjrqcg73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
